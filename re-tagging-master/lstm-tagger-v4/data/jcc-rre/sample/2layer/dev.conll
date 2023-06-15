@@ -1,0 +1,50 @@
+The	DT	B-NP	O	O	B-S	NP/S/	B-E	O
+public	JJ	I-NP	O	O	I-S	NP/S/	I-E	O
+notice	NN	I-NP	O	O	I-S	NP/S/	I-E	O
+of	IN	I-NP	O	O	I-S	PP/NP/S/	I-E	O
+the	DT	I-NP	O	O	I-S	NP/PP/NP/S/	I-E	O
+provisions	NNS	I-NP	O	O	I-S	NP/PP/NP/S/	I-E	O
+of	IN	I-NP	O	O	I-S	PP/NP/PP/NP/S/	I-E	O
+the	DT	I-NP	O	O	I-S	NP/PP/NP/PP/NP/S/	I-E	O
+preceding	VBG	I-NP	O	O	I-S	NP/PP/NP/PP/NP/S/	I-E	O
+paragraph	NN	E-NP	O	O	I-S	NP/PP/NP/PP/NP/S/	I-E	O
+shall	MD	O	O	O	I-S	VP/S/	I-E	O
+be	VB	O	O	O	I-S	VP/S/	I-E	O
+listed	VBN	O	O	O	I-S	VP/S/	I-E	O
+in	IN	O	O	O	I-S	PP/VP/S/	I-E	O
+the	DT	B-NP	O	O	I-S	NP/PP/VP/S/	I-E	O
+official	JJ	I-NP	O	O	I-S	NP/PP/VP/S/	I-E	O
+gazette	NN	E-NP	O	O	I-S	NP/PP/VP/S/	I-E	O
+.	.	O	O	O	E-S	S/	O	O
+
+A	DT	B-NP	O	O	O	NP/S/	B-E	O
+lease	NN	I-NP	O	O	O	NP/S/	I-E	O
+of	IN	I-NP	O	O	O	PP/NP/S/	I-E	O
+immovable	JJ	I-NP	O	O	O	NP/PP/NP/S/	I-E	O
+property	NN	E-NP	O	O	O	NP/PP/NP/S/	I-E	O
+,	,	O	O	O	O	S/	O	O
+when	WRB	O	O	B-IF	O	WHADVP/SBAR/S/	B-R	O
+registered	JJ	E-VP	O	E-IF	O	VP/S/SBAR/S/	I-R	O
+,	,	O	O	O	O	S/	O	O
+shall	MD	O	O	O	O	VP/S/	I-E	O
+also	RB	O	O	O	O	ADVP/VP/S/	I-E	O
+be	VB	O	O	O	O	VP/S/	I-E	O
+effective	JJ	O	O	O	O	ADJP/VP/S/	I-E	O
+against	IN	O	O	O	O	PP/ADJP/VP/S/	I-E	O
+a	DT	B-NP	O	O	O	NP/PP/ADJP/VP/S/	I-E	O
+person	NN	E-NP	O	O	O	NP/PP/ADJP/VP/S/	I-E	O
+who	WP	O	B-WHNP	O	O	WHNP/SBAR/NP/PP/ADJP/VP/S/	I-E	O
+subsequently	RB	O	I-WHNP	O	O	ADVP/S/SBAR/NP/PP/ADJP/VP/S/	I-E	O
+acquires	VBZ	O	I-WHNP	O	O	VP/S/SBAR/NP/PP/ADJP/VP/S/	I-E	O
+real	JJ	B-NP	I-WHNP	O	O	NP/VP/S/SBAR/NP/PP/ADJP/VP/S/	I-E	O
+rights	NNS	I-NP	I-WHNP	O	O	NP/VP/S/SBAR/NP/PP/ADJP/VP/S/	I-E	O
+with	IN	I-NP	I-WHNP	O	O	PP/NP/VP/S/SBAR/NP/PP/ADJP/VP/S/	I-E	O
+respect	NN	E-NP	I-WHNP	O	O	NP/PP/NP/VP/S/SBAR/NP/PP/ADJP/VP/S/	I-E	O
+to	TO	O	I-WHNP	O	O	PP/VP/S/SBAR/NP/PP/ADJP/VP/S/	I-E	O
+the	DT	B-NP	I-WHNP	O	O	NP/PP/VP/S/SBAR/NP/PP/ADJP/VP/S/	I-E	O
+immovable	JJ	I-NP	I-WHNP	O	O	NP/PP/VP/S/SBAR/NP/PP/ADJP/VP/S/	I-E	O
+property	NN	E-NP	E-WHNP	O	O	NP/PP/VP/S/SBAR/NP/PP/ADJP/VP/S/	I-E	O
+.	.	O	O	O	O	S/	O	O
+
+
+

@@ -1,0 +1,46 @@
+Actions	NNS	B-NP	O	O	O	NP/S/	B-R	B-E	O
+for	IN	I-NP	O	O	O	PP/NP/S/	I-R	O	O
+preservation	NN	I-NP	O	O	O	NP/PP/NP/S/	I-R	O	O
+of	IN	I-NP	O	O	O	PP/NP/PP/NP/S/	I-R	O	O
+possession	NN	E-NP	O	O	O	NP/PP/NP/PP/NP/S/	I-R	O	O
+may	MD	O	O	O	O	VP/S/	O	I-E	O
+be	VB	O	O	O	O	VP/S/	O	I-E	O
+brought	VBN	O	O	O	O	VP/S/	O	I-E	O
+so	RB	O	O	O	O	ADVP/VP/S/	O	I-E	O
+long	RB	O	O	O	O	ADVP/VP/S/	O	I-E	O
+as	IN	O	O	B-IF	O	SBAR/ADVP/VP/S/	O	I-E	O
+the	DT	B-NP	O	I-IF	B-S	NP/S/SBAR/ADVP/VP/S/	O	I-E	O
+danger	NN	I-NP	O	I-IF	I-S	NP/S/SBAR/ADVP/VP/S/	O	I-E	O
+of	IN	I-NP	O	I-IF	I-S	PP/NP/S/SBAR/ADVP/VP/S/	O	I-E	O
+disturbance	NN	E-NP	O	I-IF	I-S	NP/PP/NP/S/SBAR/ADVP/VP/S/	O	I-E	O
+exists	VBZ	E-VP	O	I-IF	E-S	VP/S/SBAR/ADVP/VP/S/	O	I-E	O
+.	.	O	O	E-IF	O	SBAR/ADVP/VP/S/	O	O	O
+
+In	IN	O	O	O	O	PP/S/	B-R	O	O
+such	JJ	B-NP	O	O	O	NP/PP/S/	I-R	O	O
+cases	NNS	E-NP	O	O	O	NP/PP/S/	I-R	O	O
+,	,	O	O	O	O	S/	O	O	O
+the	DT	B-NP	O	O	O	NP/S/	B-E	O	O
+proviso	NN	I-NP	O	O	O	NP/S/	I-E	O	O
+to	TO	I-NP	O	O	O	PP/NP/S/	I-E	O	O
+the	DT	I-NP	O	O	O	NP/PP/NP/S/	I-E	O	O
+preceding	VBG	I-NP	O	O	O	NP/PP/NP/S/	I-E	O	O
+paragraph	NN	E-NP	O	O	O	NP/PP/NP/S/	I-E	O	O
+shall	MD	O	O	O	O	VP/S/	I-E	O	O
+apply	VB	O	O	O	O	VP/S/	I-E	O	O
+mutatis	JJ	B-NP	O	O	O	NP/VP/S/	I-E	O	O
+mutandis	NNS	E-NP	O	O	O	NP/VP/S/	I-E	O	O
+if	IN	O	O	B-IF	O	SBAR/VP/S/	B-R	O	O
+possessed	NNP	B-NP	O	I-IF	O	NP/S/SBAR/VP/S/	I-R	O	O
+Thing	NNP	E-NP	O	I-IF	O	NP/S/SBAR/VP/S/	I-R	O	O
+is	VBZ	O	O	I-IF	O	VP/S/SBAR/VP/S/	I-R	O	O
+likely	JJ	O	O	I-IF	O	ADJP/VP/S/SBAR/VP/S/	I-R	O	O
+to	TO	O	O	I-IF	O	VP/S/ADJP/VP/S/SBAR/VP/S/	I-R	O	O
+be	VB	O	O	I-IF	O	VP/S/ADJP/VP/S/SBAR/VP/S/	I-R	O	O
+damaged	VBN	O	O	I-IF	O	VP/S/ADJP/VP/S/SBAR/VP/S/	I-R	O	O
+by	IN	O	O	I-IF	O	PP/VP/S/ADJP/VP/S/SBAR/VP/S/	I-R	O	O
+construction	NN	E-NP	O	E-IF	O	NP/PP/VP/S/ADJP/VP/S/SBAR/VP/S/	I-R	O	O
+.	.	O	O	O	O	S/	O	O	O
+
+
+
